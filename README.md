@@ -1,22 +1,24 @@
 # node-contactbook
 contact book by node.js
 
-### PATH ¼³Á¤
-**Å° °ª**  
-~~
+### PATH ì„¤ì •
+#### DB ì—°ê²° ì‹œ í•„ìš”í•œ ì‘ì—… 
+**í™˜ê²½ë³€ìˆ˜ ì„¤ì •ì‹œ MONGO_DBí‚¤ ê°’ ì„¤ì •**  
+~~~
 mongodb+srv://test:test@cluster0-xg1lk.mongodb.net/test?retryWrites=true&w=majority
-~~  
-**nodemon global ¼³Ä¡**  
-~~
+~~~ 
+#### í•„ìˆ˜ ëª¨ë“ˆ
+**nodemon global ì„¤ì¹˜**  
+~~~
 npm install --global nodemon
-~~
+~~~
 
-### Âü°íÀÚ·á
-[jwt](https://www.a-mean-blog.com/ko/blog/Node-JS-API/_/JWT-JSON-Web-Token-%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-REST-API-%EB%A7%8C%EB%93%A4%EA%B8%B0)
-[·¹µğ½º ¼³Ä¡](https://dgkim5360.tistory.com/entry/install-redis-for-linux-or-windows) 
+### ì°¸ê³ ìë£Œ
+[jwt](https://www.a-mean-blog.com/ko/blog/Node-JS-API/_/JWT-JSON-Web-Token-%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-REST-API-%EB%A7%8C%EB%93%A4%EA%B8%B0)  
+[ë ˆë””ìŠ¤ ì„¤ì¹˜](https://dgkim5360.tistory.com/entry/install-redis-for-linux-or-windows)   
 
-[js¿¡¼­ callback ÇÔ¼öÀÇ ÀÇ¹Ì´Â?](https://www.a-mean-blog.com/ko/blog/%ED%86%A0%EB%A7%89%EA%B8%80/_/Javascript-Callback-%ED%95%A8%EC%88%98)
+[jsì—ì„œ callback í•¨ìˆ˜ì˜ ì˜ë¯¸ëŠ”?](https://www.a-mean-blog.com/ko/blog/%ED%86%A0%EB%A7%89%EA%B8%80/_/Javascript-Callback-%ED%95%A8%EC%88%98)
 
 [CRUD 7 standard actions](https://www.a-mean-blog.com/ko/blog/Node-JS-%EC%B2%AB%EA%B1%B8%EC%9D%8C/%EC%A3%BC%EC%86%8C%EB%A1%9D-%EB%A7%8C%EB%93%A4%EA%B8%B0/CRUD%EC%99%80-7-Standard-Actions)
 
-[ORM(Object-relational mapping) °ú Model](https://www.a-mean-blog.com/ko/blog/%ED%86%A0%EB%A7%89%EA%B8%80/_/ORM-Object-relational-mapping-%EA%B3%BC-Model)
+[ORM(Object-relational mapping) ê³¼ Model](https://www.a-mean-blog.com/ko/blog/%ED%86%A0%EB%A7%89%EA%B8%80/_/ORM-Object-relational-mapping-%EA%B3%BC-Model)
