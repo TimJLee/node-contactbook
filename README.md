@@ -14,7 +14,8 @@ npm install --global nodemon
 ~~~
 
 ### 참고자료
-[jwt](https://www.a-mean-blog.com/ko/blog/Node-JS-API/_/JWT-JSON-Web-Token-%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-REST-API-%EB%A7%8C%EB%93%A4%EA%B8%B0)  
+[jwt](https://www.a-mean-blog.com/ko/blog/Node-JS-API/_/JWT-JSON-Web-Token-%EB%A1%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-REST-API-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+
 [레디스 설치](https://dgkim5360.tistory.com/entry/install-redis-for-linux-or-windows)   
 
 [js에서 callback 함수의 의미는?](https://www.a-mean-blog.com/ko/blog/%ED%86%A0%EB%A7%89%EA%B8%80/_/Javascript-Callback-%ED%95%A8%EC%88%98)
