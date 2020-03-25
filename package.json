@@ -1,13 +1,12 @@
 {
   "name": "contact-book",
   "version": "1.0.0",
-  "description": "이 저장소의 코드는\r [http://a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기](http://a-mean-blog.com/ko/blog/Node-JS-첫걸음/주소록-만들기)에서 작성되었습니다.\r <br>",
+  "description": "node.js 로 만든 명함판 프로그램",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "tim jaeyong lee",
   "dependencies": {
     "body-parser": "^1.19.0",
     "ejs": "^3.0.1",
